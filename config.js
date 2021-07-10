@@ -4,7 +4,7 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương
-    em đang giận anh phải khum`,
+    em đang giận anh phải khum',
     btnIntro: 'Đúng roài',
     title: 'Babii à đừng buồn anh nữa nhé, Thương babii nhiều lắm',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
