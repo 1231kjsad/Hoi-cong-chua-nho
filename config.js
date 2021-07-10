@@ -8,7 +8,7 @@ const CONFIG = {
     btnIntro: 'Đúng roài',
     title: 'Babii à đừng buồn anh nữa nhé, Thương babii nhiều lắm',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Hehehe Nhím đã vui trở lại',
+    btnYes: 'Heheheee Nhím đã vui trở lại',
     btnNo: 'Không, ghét roài',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
