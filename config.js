@@ -5,7 +5,7 @@ const CONFIG = {
     btnIntro: 'Đúng roài',
     title: 'Babi à đừng buồn anh nữa nhé, Thương babii nhiều lắm',
     desc: 'Từ giờ a sẽ cố gắng nhiều nữa để em được cười nhiều nhé',
-    btnYes: 'Heheheee Nhím đã vui trở lại',
+    btnYes: 'Heheheeee Nhím đã vui trở lại',
     btnNo: 'Không, ghét roài',
     question:'giờ em hãy cười thật nhiều và hạnh phúc nhiều nhaaa, giờ xem phim thôi',
     btnReply: 'Gửi cho anh <3',
