@@ -1,16 +1,13 @@
 const CONFIG = {
     introTitle: 'Nhím à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương
+    introDesc: `Công chúa nhỏ ơi
     em đang giận anh phải khum`,
     btnIntro: 'Đúng roài',
     title: 'Babi à đừng buồn anh nữa nhé, Thương babii nhiều lắm',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    desc: 'Từ giờ a sẽ cố gắng nhiều nữa để em được cười nhiều nhé',
     btnYes: 'Heheheee Nhím đã vui trở lại',
     btnNo: 'Không, ghét roài',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'giờ em hãy cười thật nhiều và hạnh phúc nhiều nhaaa, giờ xem phim thôi',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
